@@ -1,7 +1,7 @@
 package MergeSortTest;
 public class MergeSorting {
     public void mergeSort(int [] data){
-    
+        sort(data,0,data.length-1);
     }
     
     private void merge(int data[],int left, int middle,int right){
@@ -25,7 +25,7 @@ public class MergeSorting {
            c++;
        }
        int s = middle -a;
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i <=s; i++) {
             data[c + i] = temp[a + i];
         }
     }
