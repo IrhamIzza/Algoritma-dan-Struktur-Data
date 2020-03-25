@@ -18,4 +18,4 @@ Pada baris ini juga dilakukan pengembalian hasil dari pencocokan data, apabila d
 <img src = Modifikasibinary.png>
 
 4. Data 30 tidak ditemukan, karena data tidak diurutkan terlebih dahuku dari data terkecil ke terbesar, jika tidak diurutkan maka program akan mengabaikan data yang seharusnya diperiksa.
-5. Modifikasi ada pada project minggu7 package TestSearching, class ModifikasiSearching.java
+5. Modifikasi ada pada package TestSearching, class ModifikasiSearching.java
