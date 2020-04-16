@@ -8,7 +8,6 @@ package minggu10;
 import java.util.Scanner;
 
 public class ModifQueueMain {
-
     public static void menu() {
         System.out.println("\nMasukkan operasi yang diinginkan");
         System.out.println("1. Enqueue");
