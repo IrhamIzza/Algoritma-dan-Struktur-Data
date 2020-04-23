@@ -1,4 +1,4 @@
-package tugas1;
+package No_1;
 public class DaftarMHS {
 
     MHS head;
