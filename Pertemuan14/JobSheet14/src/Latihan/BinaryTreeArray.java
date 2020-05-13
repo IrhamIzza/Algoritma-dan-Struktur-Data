@@ -1,3 +1,5 @@
+package Latihan;
+
 public class BinaryTreeArray {
     int[] data;
     int idxLast;

@@ -1,3 +1,8 @@
+package Latihan;
+
+
+import Latihan.Node;
+
 public class BinaryTree {
     Node root;
     

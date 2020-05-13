@@ -1,3 +1,5 @@
+package Latihan;
+
 public class BinaryTreeArrayMain {
     public static void main(String[] args) {
         BinaryTreeArray bta = new BinaryTreeArray();
